@@ -11,6 +11,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17872#Gifts-of-GeniusA-Miscellany-of-Prose-and-Poetry-by-American-Authors
 gutenberg_issued: '2006-02-27'
 gutenberg_type: Text
 identifiers:
